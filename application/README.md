@@ -1,10 +1,9 @@
-# csc648-sp19-TeamNN
+# Application Folder
 
-## Please do the following steps before completing Milestone 0.
-1. Change the name of the repo from csc648-sp19-TeamNN. All that needs to chanage is the NN to your respective team number. Team numbers whos value is less than 10, please pad with a 0. Ex team 1 is Team01 team 11 is Team11. Please make sure to also remove the username from the repo as well.
+## Purpose
+The purpose of this folder is to store all the source code and related files for your team's application. Source code MUST NOT be in any of folder. <strong>YOU HAVE BEEN WARNED</strong>
 
-1. PLEASE REMOVE THE USERNAME FROM THE REPO!!!
+You are free to organize the contents of the folder as you see fit. But remember your team is graded on how you use Git. This does include the structure of your application. Points will be deducted from poorly structured application folders.
 
-2. Add ALL members of your team to this repo. For it to count, they must ACCEPT the invite.
-
+## Please use the rest of the README.md to store important information for your team's application.
 
